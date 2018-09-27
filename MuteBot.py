@@ -5,7 +5,7 @@ import urllib
 import datetime
 
 # Bot token used to access this bot
-TOKEN = "680853535:AAGIca5YDCLScY-gx0q8eGYOAEuTjtwLorY"
+TOKEN = 
 # Telegram Bot API URL
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
